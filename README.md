@@ -7,6 +7,13 @@ post.php dosyasında TOKEN-KODU kısmında 14. Satır ve 17. Satırda Bulunan Ch
 Telegramdan BotFather'dan bir bot oluşturun gelen tokeni post.php de bulunan kısmı değiştirin
 Chat ID bulmak için Telegram da @useridinfobot
 
-![](path/to/img/2.png)
 
-![](path/to/img/3.png)
+![](https://github.com/notclone/telegram-iletisim-formu/blob/main/img/2.png?raw=true)
+
+
+![](https://github.com/notclone/telegram-iletisim-formu/blob/main/img/3.png?raw=true)
+
+------------
+
+![](https://github.com/notclone/telegram-iletisim-formu/blob/main/img/1.png?raw=true)
+
